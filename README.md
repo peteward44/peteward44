@@ -7,7 +7,7 @@ I don't have a huge amount of spare time to work on personal projects, but here 
 | Project       | Description           |
 | ------------- |:----------------------|
 | :video_game: [WebNES](https://github.com/peteward44/WebNES)</br>([Live Demo](http://peteward44.github.io/WebNES)) | My NES emulator for the browser written in Javascript. It was originally started over 10 years ago in 2013, and was one of the first retro emulators to use WebGL. Originally ported from my C++ NES emulator |
-| :video_game: [Nesulator](https://github.com/peteward44/nesulator) | My original C++ NES emulator |
+| :video_game: [Nesulator](https://github.com/peteward44/nesulator)</br>([Download link](https://github.com/peteward44/nesulator/releases)) | My original C++ NES emulator |
 | :wrench: [Atlasbuilder](https://github.com/peteward44/atlasbuilder) | Texture atlas (spritesheet) builder. Takes numerous smaller images and tiles them efficiently into a power-of-two size texture, and outputs a JSON file containing meta information |
 | :wrench: [Atlasbuilder-rust](https://github.com/peteward44/atlasbuilder-rust) | Port of Atlasbuilder to the Rust language |
 | :wrench: [Texturebuilder](https://github.com/peteward44/texturebuilder) | Atlasbuilder in C#, with XML output (original project) |
