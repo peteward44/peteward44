@@ -1,6 +1,6 @@
 ### About me
 
-I am a game dev software engineer with over 20 years of experience writing code. I currently work for Rare Ltd, on Sea Of Thieves.
+I am a game dev software engineer with over 20 years of experience writing code.
 
 I don't have a huge amount of spare time to work on personal projects, but here are some are the bigger ones:
 
